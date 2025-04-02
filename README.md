@@ -19,12 +19,12 @@ I am a **Final Year Electronics and Communication Engineering (ECE) Student** pa
 - **JavaScript (ES6+)**  
 
 ## 🚀 Live Demo  
-🔗 **[View Portfolio](https://madipillijhansirani.github.io/Jhansi-Rani/)**  
+🔗 **[View Portfolio](https://madipillijhansirani.github.io/PERSONAL-PORTFOLIO/)**  
 
 ## 📬 Contact Me  
-📧 Email: **your-email@example.com**  
+📧 Email: jhansimadipilli@gmail.com  
 🔗 LinkedIn: [Madipilli Jhansi Rani](https://www.linkedin.com/in/madipilli-jhansi-rani-848b61259/)  
-🔗 GitHub: [Jhansi-Rani](https://github.com/madipillijhansirani)  
+🔗 GitHub: [Jhansi-Rani](https://github.com/MadipilliJhansirani)  
 
 ## 📜 License  
 This project is **MIT Licensed**. Feel free to use or modify it! 😊  
